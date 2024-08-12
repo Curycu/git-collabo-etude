@@ -1,1 +1,2 @@
-git etude for data analyst 
+Hi there~!
+This repository is etude for data analysts who want git collobo with others~!
